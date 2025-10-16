@@ -1,4 +1,4 @@
-##🎓 Student Performance Dashboard | Power BI Project
+🎓## Student Performance Dashboard | Power BI Project
 
 📊 Overview
 
